@@ -5,4 +5,4 @@ This paper presents Conv-KNRM, a Convolutional Kernel-based Neural Ranking Model
 [Convolutional Neural Networks for Soft-Matching N-Grams in Ad-hoc Search (WSDM-2018)](http://www.cs.cmu.edu/~./callan/Papers/wsdm18-zhuyun-dai.pdf "Conv-KNRM")
 
 
-
+![image](https://github.com/jyy0553/Conv-KNRM/tree/master/IMG)
